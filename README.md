@@ -8,4 +8,6 @@ TOF是一種深度相機，他所呈現的影像為IR與Depth，為了驗證相�
 ![image](https://github.com/yuliang1995/TOF-data-collect/blob/main/image/IR0.jpg?raw=true)
 
   
-FOV的計算是參考Leetcode.221的方法，去計算出白色部分有多少並透過畢氏定理運算出FOV
+FOV的計算是參考Leetcode.221的方法，去計算出白色部分有多少並透過畢氏定理運算出FOV。  
+
+而output的excel，如上附件。
